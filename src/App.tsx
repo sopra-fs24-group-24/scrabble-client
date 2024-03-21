@@ -10,7 +10,7 @@ import AppRouter from "./components/routing/routers/AppRouter";
  */
 const App = () => {
   return (
-    <h1>Group 24</h1>
+    <h1>Group 24 - Scrabble</h1>
   );
 };
 
